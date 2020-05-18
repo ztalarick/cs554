@@ -1,0 +1,19 @@
+{
+  "name": "cs554_lab3",
+  "version": "1.0.0",
+  "description": "Using redis to do some stuff",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Talarick",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "flat": "^5.0.0",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "Same as lab 1 but now with typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "ts-node ./src/server.ts",
+    "prod": "npm run build && npm start",
+    "seed": "node ./dist/seed.js",
+    "start": "node ./dist/server.js"
+  },
+  "author": "Zachary Talarick",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/mongodb": "^3.5.16",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "tsc-node": "0.0.3",
+    "typescript": "^3.8.3"
+  }
+}

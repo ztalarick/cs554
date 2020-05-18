@@ -1,0 +1,8 @@
+https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015
+https://catalog.data.gov/dataset/allegheny-county-property-sale-transactions
+https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results-5c6d6
+https://catalog.data.gov/dataset/stolen-gun-data
+https://catalog.data.gov/dataset/traffic-data
+https://catalog.data.gov/dataset/allegheny-county-dog-licenses
+https://catalog.data.gov/dataset/sales-tax-rates
+
